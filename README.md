@@ -1,0 +1,2 @@
+# namaReader
+ler tsv nama
